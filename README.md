@@ -119,7 +119,7 @@ ng serve o npm start
 * 📁 routes/: Rutas para eventos, usuarios, etc.
 * 📁 controllers/: Lógica de negocio.
 * 📁 models/: Interacción con la base de datos.
-* 📄 server.js: Configuración principal del servidor.
+* 📄 app.js: Configuración principal del servidor.
 
 ### **Frontend:**
 
