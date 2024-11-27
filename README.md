@@ -111,7 +111,7 @@ ng serve o npm start
 
 * Regístrate en un evento disponible.
 * Confirma tu asistencia desde tu panel de usuario.
-* Descarga tu certificado una vez confirmada tu participación.
+* Descarga tu certificado una vez asistido al evento.
 
 ## 📂** Estructura del Proyecto**
 
