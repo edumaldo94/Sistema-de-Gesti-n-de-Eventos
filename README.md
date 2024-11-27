@@ -74,7 +74,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 git clone https://github.com/edumaldo94/Sistema-de-Gesti-n-de-Eventos
 cd Sistema-de-Gesti-n-de-Eventos
-
+```
 ### **2. Configurar el Backend**
 Ve a la carpeta del backend:
 cd backend
@@ -103,6 +103,32 @@ ng serve o npm start
 ## 📖**Uso**
 
 ### **👨‍💼 Organizador**
-
+* Inicia sesión con una cuenta de organizador.
+* Gestiona eventos: crea, edita o elimina eventos desde la sección de administración.
+* Marca la asistencia de los participantes y genera certificados.
 
 ### **👤 Asistente**
+
+* Regístrate en un evento disponible.
+* Confirma tu asistencia desde tu panel de usuario.
+* Descarga tu certificado una vez confirmada tu participación.
+
+## 📂** Estructura del Proyecto**
+
+### **Backend:**
+* 📁 routes/: Rutas para eventos, usuarios, etc.
+* 📁 controllers/: Lógica de negocio.
+* 📁 models/: Interacción con la base de datos.
+* 📄 server.js: Configuración principal del servidor.
+
+### **Frontend:**
+
+* 📁 src/app/: Contiene los módulos y componentes principales.
+* 📁 src/assets/: Archivos estáticos como imágenes y CSS.
+
+## 📜 **Licencia**
+
+Este proyecto está bajo la **Licencia EAM** *(Maldonado Eduardo Alberto)*.
+
+📧 **Cualquier consulta**, comunícate a la siguiente dirección de correo:  
+**[maldonado19994@gmail.com](mailto:maldonado19994@gmail.com)**  
